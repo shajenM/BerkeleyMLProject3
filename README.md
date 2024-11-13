@@ -43,9 +43,9 @@ The modeling was performed using multiple models. Following models were used:
 ### Model Comparison
 Here is the comparison of all 4 models
 
-[comparisson]()
+[comparisson](images/model_comp.PNG)
 
 ### Notebooks
-[Notebookmodeling](AbsenteeismModeling.ipynb)
+[Notebookmodeling](prompt_III.ipynb)
 
 ### Conclusion
