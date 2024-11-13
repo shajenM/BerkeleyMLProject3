@@ -43,9 +43,16 @@ The modeling was performed using multiple models. Following models were used:
 ### Model Comparison
 Here is the comparison of all 4 models
 
-[comparisson](images/model_comp.PNG)
+<img src="images/model_comp.PNG">
+
+The highest accuracy was obtained with Logistic Regression. KNN was the fastest model to train and SVM took more time.
+Decsion Tree had a very high accuracy on trining but low on testing. Overall Logistic Regression provoded best performance. 
 
 ### Notebooks
 [Notebookmodeling](prompt_III.ipynb)
 
 ### Conclusion
+In this effort we used 4 models for training the data. The models were traiined using default parameters. We can improve the models further by using grid search to find best paramters. 
+
+We still could not answer which marketing techniques are effective in the future. For that we need further analysis.
+This effort help us to find out which model is suitable for this task.
