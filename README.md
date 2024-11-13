@@ -6,7 +6,7 @@ The purpose of the project is to find out  effectiveness for future marketing ca
 
 
 ### Dataset
-The dataset has folloing fields:
+The dataset has following fields:
 ```
 age                 int64
 job                object
